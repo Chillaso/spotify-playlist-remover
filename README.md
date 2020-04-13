@@ -3,7 +3,7 @@ Remove all tracks added by an user in a playlist
 
 # Requirements
 * Go
-* (Spotify developer account)[https://developer.spotify.com/dashboard/login]
+* [Spotify developer account](https://developer.spotify.com/dashboard/login)
 * Spotify project created
 
 # Usage
